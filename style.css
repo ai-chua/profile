@@ -64,15 +64,16 @@ a:hover {
 }
 
 .avatar {
-  width: 100px;
-  border-radius: 50px;
+  width: 150px;
+  border-radius: 75px;
 }
 
 .highlight {
-  background-color: #393e46;
+  background-color: #844685ee;
   color: white;
   padding-left: 3px;
   padding-right: 3px;
+  border-right: 3px;
 }
 
 .header-link {
