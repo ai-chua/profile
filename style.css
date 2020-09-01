@@ -22,10 +22,11 @@ h2 {
 a {
   text-decoration: none;
   color: #844685ee;
+  transition: color 0.5s ease-in-out;
 }
 
 a:hover {
-  color: #bebdbf;
+  color: #393e46;
 }
 
 @media (max-width: 960px) {
@@ -82,10 +83,11 @@ a:hover {
   font-weight: 700;
   padding: 12px 30px;
   border-radius: 9px;
+  transition: background-color 0.5s ease-in-out;
 }
 
 .header-link:hover {
-  background-color: #bebdbf;
+  background-color: #393e46;
   color: #FFFFFF;
   font-weight: 700;
   padding: 12px 30px;
